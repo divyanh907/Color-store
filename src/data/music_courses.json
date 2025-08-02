@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Basics of Color Theory",
+      "slug": "color-theory-basics",
+      "description": "Explore the fundamentals of color theory and learn how colors interact.",
+      "price": 799.00,
+      "instructor": "Aarav Sharma",
+      "isFeatured": true,
+      "image": "/courses/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Watercolor Painting for Beginners",
+      "slug": "watercolor-painting",
+      "description": "Learn to create beautiful watercolor paintings step by step.",
+      "price": 899.00,
+      "instructor": "Neha Verma",
+      "isFeatured": false,
+      "image": "/courses/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Digital Coloring Techniques",
+      "slug": "digital-coloring",
+      "description": "Master digital art tools to create stunning color-rich illustrations.",
+      "price": 999.00,
+      "instructor": "Rohan Mehta",
+      "isFeatured": true,
+      "image": "/courses/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tie-Dye Fabric Art",
+      "slug": "tie-dye-fabric-art",
+      "description": "Learn the vibrant art of tie-dye with easy-to-follow tutorials.",
+      "price": 749.00,
+      "instructor": "Kavya Iyer",
+      "isFeatured": false,
+      "image": "/courses/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Color Psychology in Design",
+      "slug": "color-psychology-design",
+      "description": "Understand how colors influence mood and behavior in design.",
+      "price": 899.00,
+      "instructor": "Ananya Joshi",
+      "isFeatured": false,
+      "image": "/courses/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Rangoli Art Masterclass",
+      "slug": "rangoli-art",
+      "description": "Discover traditional Indian Rangoli patterns with vibrant colors.",
+      "price": 699.00,
+      "instructor": "Devanshi Patel",
+      "isFeatured": true,
+      "image": "/courses/6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Color Grading for Photography",
+      "slug": "photo-color-grading",
+      "description": "Enhance your photos using professional color grading techniques.",
+      "price": 1099.00,
+      "instructor": "Siddharth Kapoor",
+      "isFeatured": false,
+      "image": "/courses/7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Indian Folk Art with Natural Colors",
+      "slug": "folk-art-natural-colors",
+      "description": "Paint traditional Indian folk art using organic and natural colors.",
+      "price": 1199.00,
+      "instructor": "Meera Singh",
+      "isFeatured": true,
+      "image": "/courses/8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Fabric Dyeing Techniques",
+      "slug": "fabric-dyeing",
+      "description": "Learn different techniques to dye and color fabric beautifully.",
+      "price": 999.00,
+      "instructor": "Yuvraj Nair",
+      "isFeatured": false,
+      "image": "/courses/9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Mandala Coloring Meditation",
+      "slug": "mandala-coloring",
+      "description": "Use colors to relax and meditate through detailed mandala designs.",
+      "price": 849.00,
+      "instructor": "Pooja Reddy",
+      "isFeatured": true,
+      "image": "/courses/10.jpg"
+    }
+  ]
+}
